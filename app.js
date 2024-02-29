@@ -16,6 +16,7 @@ function exibirMensagemInicial() {
 
 exibirMensagemInicial();
 /*novo comentario*/
+/*novo comentario*/
 function verificarChute() {
     let chute = document.querySelector('input').value;
     
