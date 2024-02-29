@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
@@ -16,7 +16,7 @@ function exibirMensagemInicial() {
 
 exibirMensagemInicial();
 /*novo comentario*/
-/*novo comentario*/
+
 function verificarChute() {
     let chute = document.querySelector('input').value;
     
